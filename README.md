@@ -1,13 +1,15 @@
-# Sample Hardhat Project
+# Blockchain Spending Ledger
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+A blockchain-secured spending tracking system with tamper detection.
 
-Try running some of the following tasks:
+## Tech Stack
+- React + TypeScript
+- Hardhat + Solidity
+- Supabase
+- Ethers.js
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+## Features
+- ✅ Blockchain-secured records
+- ✅ Tamper detection
+- ✅ Cryptographic verification
+- ✅ MetaMask integration
